@@ -1,6 +1,6 @@
 # Data Visualizations
 
-Some data visualizations I have made. You are welcome to freely use these for educational or press purposes, with attribution to "Mathew Barlow, University of Massachusetts Lowell."
+Some data visualizations I have made are in the 'images' folder, with previews below. You are welcome to freely use these for educational or press purposes, with attribution to "Mathew Barlow, University of Massachusetts Lowell."
 
 See also my gallery of [animations](https://github.com/mathewbarlow/animations).
 
@@ -8,4 +8,4 @@ See also my gallery of [animations](https://github.com/mathewbarlow/animations).
 
 Average surface currents in the HYCOM model, made with ParaView.
 
-<img width="200" src="hycom_sfc_currents.gif">  
+<img width="200" src="images/hycom_sfc_currents.gif">  
