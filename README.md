@@ -4,8 +4,8 @@ Some data visualizations I have made. You are welcome to freely use these for ed
 
 See also my gallery of [animations](https://github.com/mathewbarlow/animations).
 
-<b> hycom_sfc_currents.png </b>
+<b> hycom_sfc_currents.gif </b>
 
 Average surface currents in the HYCOM model, made with ParaView.
 
-<img width="200" src="hycom_sfc_currents.png">  
+<img width="200" src="hycom_sfc_currents.gif">  
