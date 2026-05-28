@@ -8,4 +8,4 @@ See also my gallery of [animations](https://github.com/mathewbarlow/animations).
 
 Average surface currents in the HYCOM model, made with ParaView.
 
-<img width="200" src="images/hycom_sfc_currents.gif">  
+<img width="400" src="images/hycom_sfc_currents.gif">  
