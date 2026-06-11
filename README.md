@@ -21,3 +21,9 @@ Estimate of wild fire smoke on 13 June 2025, based on total column carbon monoxi
 Total amount of moisture in the atmosphere on a single day, made with ParaView.
 
 <img width="400" src="images/era5_pwat_still_image.gif">  
+
+<b> ocean_sfc_height.gif </b>
+
+Height of the ocean surface on a single day (excluding tides), made with ParaView.
+
+<img width="400" src="images/ocean_sfc_height.gif">  
