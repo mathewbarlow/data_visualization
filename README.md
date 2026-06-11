@@ -24,6 +24,6 @@ Total amount of moisture in the atmosphere on a single day, made with ParaView. 
 
 <b> ocean_sfc_height.gif </b>
 
-Height of the ocean surface on a single day (excluding tides), made with ParaView.
+Height of the ocean surface on a single day (excluding tides), made with ParaView. Note that the ocean surface in the western Pacific is more than 4 meters (13 feet) higher than the ocean surface in the Southern Ocean!
 
 <img width="400" src="images/ocean_sfc_height.gif">  
