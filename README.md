@@ -18,7 +18,7 @@ Estimate of wild fire smoke on 13 June 2025, based on total column carbon monoxi
 
 <b> era5_pwat_still_image.gif </b>
 
-Total amount of moisture in the atmosphere on a single day, made with ParaView.
+Total amount of moisture in the atmosphere on a single day, made with ParaView. The effect of large mountain ranges is evident, as is the difference between the convective, bubbly nature of the tropics versus the baroclinic, swirly nature of the midlatitudes.
 
 <img width="400" src="images/era5_pwat_still_image.gif">  
 
