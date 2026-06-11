@@ -15,3 +15,9 @@ Average surface currents in the HYCOM model, made with ParaView. The flow in the
 Estimate of wild fire smoke on 13 June 2025, based on total column carbon monoxide from the Copernicus Atmosphere Monitoring Service (CAMS), made with ParaView.
 
 <img width="400" src="images/fire_13_june_2025.gif">  
+
+<b> era5_pwat_still_image.gif </b>
+
+Total amount of moisture in the atmosphere on a single day, made with ParaView.
+
+<img width="400" src="images/era5_pwat_still_image.gif">  
