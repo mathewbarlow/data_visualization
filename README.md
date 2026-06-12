@@ -12,7 +12,7 @@ Average surface currents in the HYCOM model, made with ParaView. The flow in the
 
 <b> fire_13_june_2025.gif </b>
 
-Estimate of wild fire smoke on 13 June 2025, based on total column carbon monoxide from the Copernicus Atmosphere Monitoring Service (CAMS), made with ParaView. Smoke from fires in eastern Canada has been blown all the way across the North Atlantic.
+Estimate of wild fire smoke on 13 June 2025, based on total column carbon monoxide from the Copernicus Atmosphere Monitoring Service (CAMS), made with ParaView. In this image, smoke from fires in eastern Canada has been blown all the way across the North Atlantic.
 
 <img width="400" src="images/fire_13_june_2025.gif">  
 
