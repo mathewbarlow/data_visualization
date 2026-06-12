@@ -6,7 +6,7 @@ See also my gallery of [animations](https://github.com/mathewbarlow/animations).
 
 <b> hycom_sfc_currents.gif </b>
 
-Average surface currents in the HYCOM model, made with ParaView. The flow in the gyres is so much slower than the western boundary currents, they are difficult to visualize with vectors, so I made this image showing streamlines. 
+Average surface currents in the HYCOM model, made with ParaView. The flow in the gyres is so much slower than the western boundary currents, they are difficult to visualize with vectors, so I made this image with streamlines showing flow direction and shading indicating speed (darker blue is faster).
 
 <img width="400" src="images/hycom_sfc_currents.gif">  
 
